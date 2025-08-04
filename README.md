@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishore1185&style=for-the-badge" alt="Profile views" />
-  <\p>
+<\p>
 
 
 ---
