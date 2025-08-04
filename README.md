@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishore1185&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kishore1185?style=for-the-badge&label=Followers" />
-</p>
+  <\p>
+
 
 ---
 
