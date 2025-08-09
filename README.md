@@ -1,8 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://your-link-here.com)
-<h1 align="center">Hello 👋</h1>
-
+<h1 align="center" style="background: linear-gradient(90deg, #ff4b2b, #ff416c); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Segoe Script', cursive; font-size: 50px;">
+  𝓗𝓮𝓵𝓵𝓸 👋 <br> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓣𝓸 𝓜𝔂 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓮 𝓗𝓾𝓫
+</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00FF00&center=true&vCenter=true&lines=I'm+Kishore!" alt="I'm Kishore animated bounce" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00FF00&center=true&vCenter=true&lines=I'm+KISHORE!" alt="I'm Kishore animated bounce" />
 </h1>
 
 <p align="center">
