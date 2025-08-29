@@ -22,6 +22,16 @@
 
 ---
 
+### 🔗 Portfolio
+
+<p align="center">
+  <a href="https://kishorer.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/kishorer.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
 ### 💻 Tech Stack
 
 <p align="center">
@@ -47,16 +57,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kishore1185&theme=tokyonight&row=1&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 🔗 Portfolio
-
-<p align="center">
-  <a href="https://kishorer.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/kishorer.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 ---
