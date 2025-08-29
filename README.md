@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=kishore1185&style=for-the-badge" alt="Profile views" />
 </p>
 
-
 ---
 
 ### 🚀 About Me
@@ -26,7 +25,11 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,js,html,mysql,flutter,linux" />
+  <!-- Web Core -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,js" />
+  <br/>
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,django,mysql,flutter,linux" />
 </p>
 
 ---
@@ -44,6 +47,16 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kishore1185&theme=tokyonight&row=1&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 🔗 Portfolio
+
+<p align="center">
+  <a href="https://kishorer.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/kishorer.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
