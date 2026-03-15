@@ -56,15 +56,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kishore1185&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishore1185&theme=tokyonight&row=1&no-frame=true&margin-w=10" />
-</p>
 
 ---
+
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/> </p>
+
 
 ### 🔗 Let's Connect
 
