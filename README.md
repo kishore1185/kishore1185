@@ -24,16 +24,11 @@
 
 ### 🔗 Portfolio
 <p align="center">
-  <a href="https://kishoree.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/kishoree.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://rkishore.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/rkishore.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://kishorer.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/kishorer.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
 
 ---
 
