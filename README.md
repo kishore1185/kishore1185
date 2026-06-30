@@ -24,8 +24,8 @@
 
 ### 🔗 Portfolio
 <p align="center">
-  <a href="https://rkishore.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/rkishore.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://rkishore.in" target="_blank">
+    <img src="https://img.shields.io/badge/rkishore.in-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
